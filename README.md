@@ -1,4 +1,4 @@
-# MyFirstApp
+# Starter Project - A Recipe App
 
 Author: Alejandro Suárez Lamadrid
 
